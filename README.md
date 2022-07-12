@@ -22,4 +22,4 @@ After 9th graders at Thomas High School were excluded from the analysis on schoo
 
 ## Summary
 
-After the 9th graders students grades were changed to NaN, reading scores went down, math scores 
+After the 9th graders students grades were changed to NaN, Thomas High School math and reading scores went drastically down. After excluding them altogether, the same scores went slightly down. The effect this had on average district scores was negative across the board.
